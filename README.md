@@ -1,15 +1,33 @@
 # social-media-sentiment-analysis
 Analyze airline sentiment using Twitter data (Kaggle)
 
-📌 Project overview
+# ✈️ Social Media Sentiment Analysis
 
-📊 Key insights (negative vs positive sentiment, airline comparison, word cloud)
+Analyze airline sentiment using Twitter data from Kaggle. This project explores customer feedback across major airlines using NLP and visual analytics.
 
-🛠 Tools used (Python, Pandas, Matplotlib, WordCloud, Seaborn)
+---
 
-📁 Folder structure
+## 📌 Project Overview
 
-🚀 How to run notebooks
+This report analyzes public sentiment toward airlines based on tweets from February 2015. It identifies key pain points, compares airline performance, and visualizes sentiment trends.
+
+---
+
+## 📊 Key Insights
+
+- Negative sentiment dominates (64% of tweets)
+- United, US Airways, and American Airlines received the most complaints
+- Common issues: flight delays, cancellations, poor customer service
+- Virgin America had the fewest mentions
+
+---
+
+## 🛠️ Tools Used
+
+- Python (Pandas, Matplotlib, Seaborn)
+- WordCloud
+- Jupyter Notebook
+- Git & GitHub
 
 ## 📊 Visualizations
 
